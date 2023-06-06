@@ -7,5 +7,5 @@ Then the script creates more charts and plots starting with a box plot to visual
 Focusing on an individual mouse id a line and scatter plot is created. 
 The line plot illustrates the "individual mouse's tumor volume vs. time point of Capomulin treatment"
 The scatter plot illustrates the "individual mouse's weight vs.the average observed tumor volume for the entire Capomulin regimen"
-Final line plot illustrates the correlation "individual mouse's weight vs.the average observed tumor volume for the entire Capomulin regimen"
-The script provides visualization to the mouse and study data.  
+Final line plot illustrates the correlation within the scatter plot between  the "individual mouse's weight vs.the average observed tumor volume for the entire Capomulin regimen"
+The script ultimately provides visualization to the mouse and study data through finding outliers, and plotting data points.  
